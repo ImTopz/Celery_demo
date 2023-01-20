@@ -10,3 +10,6 @@ producer是生产者
 ## 鉴于celery对项目目录要求高，所以本人进行了初步学习
 
 切换到项目目录下，在终端中输入 celery -A celery_object --loglevel=info则可以启动worker消费
+
+<img width="1195" alt="image" src="https://user-images.githubusercontent.com/80200569/213626057-6f83ae7c-32b6-48cb-9f14-ca7fe097ab21.png">
+以上是通过flower来检测tasks的执行情况，分别进行了Exception测试以及正常测试
