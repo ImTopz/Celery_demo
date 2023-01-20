@@ -7,6 +7,6 @@ producer是生产者
 
 <img width="1547" alt="image" src="https://user-images.githubusercontent.com/80200569/213625605-b1e65a9e-92a1-4338-ac96-da6d6c61e002.png">
 
-## 鉴于celery对项目目录要求高，所以本人进行了学习
+## 鉴于celery对项目目录要求高，所以本人进行了初步学习
 
 切换到项目目录下，在终端中输入 celery -A celery_object --loglevel=info则可以启动worker消费
